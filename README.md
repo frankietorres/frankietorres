@@ -1,5 +1,5 @@
-- Hi, I’m @frankietorres
-- I’m interested in Software Development
-- I’m currently learning about Reinforcment Learning and System Administration
+Hi, I’m @frankietorres
 
-- How to reach me: iamfrankietorres@gmail.com
+I’m interested in Software Development
+
+How to reach me: iamfrankietorres@gmail.com
